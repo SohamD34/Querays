@@ -1,0 +1,35 @@
+﻿@page
+@model Querays.Pages.BooksModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="card-columns">
+        @foreach (var book in Model.Books)
+        {
+            <a class="nav-link navtext text-dark" href="/Reader/?add=@book.Url&name=@book.Title">
+                <div class="card">
+                    <div class="card-img" style="background-image: url('@book.Image');">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">@book.Title</h4>
+                        <h5 class="card-subtitle">@book.Author</h5>
+                        <h5 class="card-subtitle">@book.Publisher</h5>
+                        <h6 class="card-text">@book.Description</h6>
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+}
+else
+{
+    <h4>Please log in to get the chance to study books.</h4>
+}
+
+
+@{
+    ViewData["Title"] = "Books";
+}

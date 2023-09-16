@@ -1,0 +1,134 @@
+ html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 50px;
+    background-image:url('../data/backimg.jpg');
+    background-size:cover;
+}
+
+.imgback {
+    background-color: #000000;
+    color: #000000;
+}
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    font-family: Castellar;
+    font-size: xx-large;
+    text-align: center;
+    word-break: break-all;
+}
+
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.navtext {
+    font-family: 'Book Antiqua';
+    font-size: larger;
+}
+.border-top {
+    border-top: 1px solid #000000;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #000000;
+}
+
+.box-shadow {
+    box-shadow: 0 .3rem .94rem rgba(73, 71, 70, 0.51);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 40px;
+    font-family: Cambria;
+}
+
+.bg-navbar {
+    background: -webkit-linear-gradient(130deg, #ffffff 60%, #000000 60%);
+    background: -o-linear-gradient(130deg, #ffffff 60%, #000000 60%);
+    background: -moz-linear-gradient(130deg, #ffffff 60%, #000000 60%);
+    background: linear-gradient(130deg, #ffffff 60%, #000000 60%);
+}
+
+.bg-footer {
+    background: -webkit-linear-gradient(130deg, #000000 60%, #ffffff 60%);
+    background: -o-linear-gradient(130deg, #000000 60%, #ffffff 60%);
+    background: -moz-linear-gradient(130deg, #000000 60%, #ffffff 60%);
+    background: linear-gradient(130deg, #000000 60%, #ffffff 60%)
+}
+/*cards*/
+
+.card-columns .card:hover .card-img {
+    opacity: 1;
+    -webkit-transform-style: preserve-3d;
+}
+
+.card-columns .card-body {
+   
+    font-family: 'times new roman';
+    background: #fbfafd;
+}
+
+.card-columns .card-img {
+    height: 200px;
+    vertical-align: bottom;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: contain; /* Resize the background image to cover the entire container */
+    opacity: .8;
+}
+
+.modal .card-img {
+    height: 500px;
+    vertical-align: bottom;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: contain; /* Resize the background image to cover the entire container */
+}
+
+.card-columns .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(37,33,82,.12), 0 4px 8px rgba(37,33,82,.06);
+}
+
+.card-footer {
+    background: #fbfafd;
+}

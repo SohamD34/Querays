@@ -1,0 +1,91 @@
+﻿[
+  {
+    "Id": "jenlooper-cactus",
+    "Author": "Brian Kernighan ",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/411ejyE8obL._SX377_BO1,204,203,200_.jpg",
+    "Url": "../data/critchie.pdf",
+    "Title": "THE C PROGRAMMING LANGUAGE",
+    "Description": " This edition describes C as defined by the ANSI standard. This book is meant to help the reader learn how to program in C. The book assumes some familiarity with basic programming concepts like variables, assignment statements, loops, and functions.",
+    "Publisher": "Prentice Hall Software Solutions"
+
+  },
+  {
+    "Id": "jelooper-cactus",
+    "Author": "Gilbert Strang",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41L+2uEJsLL._SX425_BO1,204,203,200_.jpg",
+    "Url": "../data/gstrang.pdf",
+    "Title": "LINEAR ALGEBRA AND IT'S APPLICATIONS",
+    "Description": " Reading books is a kind of enjoyment. Reading books is a good habit. We bring you a different kinds of books. You can carry this book where ever you want. It is easy to carry. It can be an ideal gift to yourself and to your loved ones. Care instruction keep away from fire.",
+    "Publisher": "Cengage Learning India"
+
+  },
+  {
+    "Id": "jenloope-cactus",
+    "Author": "Ferdinand Beer",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41acP636dQL._SX376_BO1,204,203,200_.jpg",
+    "Url": "../data/beer.pdf",
+    "Title": " VECTOR MECHANICS FOR ENGINEERS ",
+    "Description": "Continuing in the spirit of its successful previous editions, the ninth edition of Beer, Johnston, Mazurek, and Cornwell's Vector Mechanics for Engineers provides conceptually accurate and thorough coverage together with a significant refreshment of the exercise sets and online delivery of homework problems to your students. Nearly forty percent of the problems in the text are changed from the previous edition.",
+    "Publisher": "McGraw-Hill Education"
+
+  },
+  {
+    "Id": "jenlooper-cactu",
+    "Author": "Daniel Kleppner",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41H7u-nFauL._SX379_BO1,204,203,200_.jpg",
+    "Url": "../data/klepp.pdf",
+    "Title": "AN INTRODUCTION TO MECHANICS",
+    "Description": "For 40 years, Kleppner and Kolenkow's classic text has introduced students to the principles of mechanics. Now brought up to date, this revised and improved second edition is ideal for classical mechanics courses for first- and second-year undergraduates with foundation skills in mathematics.  ",
+    "Publisher": "Cambridge University Press"
+
+  },
+  {
+    "Id": "jenlooper-cacus",
+    "Author": "Elinda Lara",
+    "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591982948l/53980830._SX318_.jpg",
+    "Url": "../data/ccb.pdf",
+    "Title": "COMPUTER CODING FOR BEGINNERS",
+    "Description": "The fourth edition of this classic textbook on C is here with some crucial updates. Known to be the best guide for beginners as well as a refresher for developers",
+    "Publisher": "McGraw Hill Education"
+
+  },
+  {
+    "Id": "jenlooper-catus",
+    "Author": "Sudhir R. Ghorpade & Balmohan V. Limaye",
+    "img": " https://harryandrewmiller.com/img/a-course-in-calculus-and-real-analysis-ghorpade-pdf-download-3.jpg",
+    "Url": "../data/ghorpade.pdf",
+    "Title": "A CALCULUS AND REAL ANALYSIS",
+    "Description": "this textbook presents a meticulous introduction to single‐variable calculus. Throughout, the exposition makes a distinction between the intrinsic geometric definition of a notion and its analytic characterization, establishing firm foundations for topics often encountered earlier without proof..",
+    "Publisher": "SPRINGER NATURE SWITERLAND AG"
+
+  },
+  {
+    "Author": "J.L.Meriam & L.G.Kraige",
+    "Description": "  All new problems have been independently solved in order to ensure a high degree of accuracy. Sample problems have been integrated throughout, including problems with computer-oriented solutions. Answers to all problems listed in a special section at the very end of the book.",
+    "Id": "jenlooper-cctus",
+    "img": "https://th.bing.com/th/id/R.f6c1cf8b425c57d42674c4eb0049d490?rik=dnv8xzaQK%2ffnfw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-C7jzI_z05xw%2fVKkl2BkA2oI%2fAAAAAAAAASo%2f_YwrX-TV3a4%2fs1600%2fUntitled-2.jpg&ehk=xMA7ACd7bRc4Y4rfO%2fkUlLwgE%2fRo8spiVd9QjS5H5O8%3d&risl=&pid=ImgRaw&r=0",
+    "Publisher": "Wiley and Sons",
+    "Title": "STATICS",
+    "Url": "../data/stat.pdf"
+  },
+  {
+    "Id": "jenlooer-cactus",
+    "Author": "Erwin Kreyszig",
+    "img": "https://th.bing.com/th/id/R.1230c319337d9ec527aca03fc0a87583?rik=vgfIPiEkKeqdFw&riu=http%3a%2f%2fwww.wileydirect.com.au%2fwp-content%2fuploads%2f2016%2f10%2fAdvanced-Engineering-Mathematics-10th-Edition-Erin-Kreysig.jpg&ehk=w%2f1B3b1PDd2ndNeHmbHFaz%2f816qS02nnEfKr3wPwDSk%3d&risl=&pid=ImgRaw&r=0",
+    "Url": "https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/59003_3812_1.pdf",
+    "Title": "ADVANCED ENGINEERING MATHEMATICS",
+    "Description": "It introduces engineers and computer scientists to advanced math topics as they relate to practical problems.",
+    "Publisher": "John Wiley & Sons"
+
+  },
+  {
+    "Id": "jenooper-cactus",
+    "Author": "P.A.M Dirac",
+    "img": " https://m.media-amazon.com/images/P/B082BGR7QQ.01._SCLZZZZZZZ_SX500_.jpg",
+    "Url": "https://digbib.ubka.uni-karlsruhe.de/volltexte/wasbleibt/57355817/57355817.pdf",
+    "Title": "THE PRINCIPLE OF QUANTUM MECHANICS",
+    "Description": "The standard work in the fundamental principles of quantum mechanics, indispensable both to the advanced student and to the mature research worker, who will always find it a fresh source of knowledge and stimulation.",
+    "Publisher": "Snowball Publishing"
+  }
+
+]

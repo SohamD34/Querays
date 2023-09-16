@@ -1,0 +1,6 @@
+﻿@page
+@{
+    ViewData["Title"] = @HttpContext.Request.Query["name"];
+}
+<iframe id="reader" src="@HttpContext.Request.Query["add"]#toolbar=0" height="780px" width="100%"></iframe>
+<p>***This site does not promote piracy in any form. All the content available is solely for student welfare and has no commercial purposes. Please support the original works through proper channels.***</p>
